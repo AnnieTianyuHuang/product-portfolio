@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1BA32E6F2ADA5A790016D166 /* TokenRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA32E6E2ADA5A790016D166 /* TokenRequest.swift */; };
+		1BEB01D12AD7243D002737F1 /* MagiryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01D02AD7243D002737F1 /* MagiryApp.swift */; };
+		1BEB01D32AD7243D002737F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01D22AD7243D002737F1 /* ContentView.swift */; };
+		1BEB01D52AD7243F002737F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BEB01D42AD7243F002737F1 /* Assets.xcassets */; };
+		1BEB01D82AD7243F002737F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BEB01D72AD7243F002737F1 /* Preview Assets.xcassets */; };
+		1BEB01E32AD7ED30002737F1 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01E02AD7ED2F002737F1 /* Models.swift */; };
+		1BEB01E42AD7ED30002737F1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01E12AD7ED2F002737F1 /* CardView.swift */; };
+		1BEB01E52AD7ED30002737F1 /* Alchemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01E22AD7ED2F002737F1 /* Alchemy.swift */; };
+		1BEB01E72AD7F8AE002737F1 /* CreateView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01E62AD7F8AE002737F1 /* CreateView2.swift */; };
+		1BEB01E92AD7F9C7002737F1 /* ForgePreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01E82AD7F9C7002737F1 /* ForgePreviewView.swift */; };
+		1BEB01EB2AD7FFFC002737F1 /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01EA2AD7FFFC002737F1 /* FilterView.swift */; };
+		1BEB01ED2AD80152002737F1 /* ConnectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01EC2AD80152002737F1 /* ConnectView.swift */; };
+		1BEB01EF2AD801A6002737F1 /* LinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEB01EE2AD801A6002737F1 /* LinkView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1BA32E6E2ADA5A790016D166 /* TokenRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenRequest.swift; sourceTree = "<group>"; };
+		1BEB01CD2AD7243D002737F1 /* Magiry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Magiry.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BEB01D02AD7243D002737F1 /* MagiryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagiryApp.swift; sourceTree = "<group>"; };
+		1BEB01D22AD7243D002737F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1BEB01D42AD7243F002737F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1BEB01D72AD7243F002737F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1BEB01E02AD7ED2F002737F1 /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		1BEB01E12AD7ED2F002737F1 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		1BEB01E22AD7ED2F002737F1 /* Alchemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Alchemy.swift; path = "../../../../Downloads/CardStackAnimation-main/CardStackAnimation/CardStackAnimation/Alchemy.swift"; sourceTree = "<group>"; };
+		1BEB01E62AD7F8AE002737F1 /* CreateView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateView2.swift; sourceTree = "<group>"; };
+		1BEB01E82AD7F9C7002737F1 /* ForgePreviewView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgePreviewView.swift; sourceTree = "<group>"; };
+		1BEB01EA2AD7FFFC002737F1 /* FilterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
+		1BEB01EC2AD80152002737F1 /* ConnectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectView.swift; sourceTree = "<group>"; };
+		1BEB01EE2AD801A6002737F1 /* LinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1BEB01CA2AD7243D002737F1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1BEB01C42AD7243C002737F1 = {
+			isa = PBXGroup;
+			children = (
+				1BEB01CF2AD7243D002737F1 /* Magiry */,
+				1BEB01CE2AD7243D002737F1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1BEB01CE2AD7243D002737F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1BEB01CD2AD7243D002737F1 /* Magiry.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1BEB01CF2AD7243D002737F1 /* Magiry */ = {
+			isa = PBXGroup;
+			children = (
+				1BEB01D02AD7243D002737F1 /* MagiryApp.swift */,
+				1BEB01D22AD7243D002737F1 /* ContentView.swift */,
+				1BEB01EE2AD801A6002737F1 /* LinkView.swift */,
+				1BEB01E12AD7ED2F002737F1 /* CardView.swift */,
+				1BEB01E22AD7ED2F002737F1 /* Alchemy.swift */,
+				1BA32E6E2ADA5A790016D166 /* TokenRequest.swift */,
+				1BEB01E02AD7ED2F002737F1 /* Models.swift */,
+				1BEB01E62AD7F8AE002737F1 /* CreateView2.swift */,
+				1BEB01E82AD7F9C7002737F1 /* ForgePreviewView.swift */,
+				1BEB01EA2AD7FFFC002737F1 /* FilterView.swift */,
+				1BEB01EC2AD80152002737F1 /* ConnectView.swift */,
+				1BEB01D42AD7243F002737F1 /* Assets.xcassets */,
+				1BEB01D62AD7243F002737F1 /* Preview Content */,
+			);
+			path = Magiry;
+			sourceTree = "<group>";
+		};
+		1BEB01D62AD7243F002737F1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				1BEB01D72AD7243F002737F1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1BEB01CC2AD7243D002737F1 /* Magiry */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1BEB01DB2AD7243F002737F1 /* Build configuration list for PBXNativeTarget "Magiry" */;
+			buildPhases = (
+				1BEB01C92AD7243D002737F1 /* Sources */,
+				1BEB01CA2AD7243D002737F1 /* Frameworks */,
+				1BEB01CB2AD7243D002737F1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Magiry;
+			productName = Magiry;
+			productReference = 1BEB01CD2AD7243D002737F1 /* Magiry.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1BEB01C52AD7243C002737F1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					1BEB01CC2AD7243D002737F1 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 1BEB01C82AD7243C002737F1 /* Build configuration list for PBXProject "Magiry" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1BEB01C42AD7243C002737F1;
+			productRefGroup = 1BEB01CE2AD7243D002737F1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1BEB01CC2AD7243D002737F1 /* Magiry */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1BEB01CB2AD7243D002737F1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1BEB01D82AD7243F002737F1 /* Preview Assets.xcassets in Resources */,
+				1BEB01D52AD7243F002737F1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1BEB01C92AD7243D002737F1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1BEB01D32AD7243D002737F1 /* ContentView.swift in Sources */,
+				1BEB01EB2AD7FFFC002737F1 /* FilterView.swift in Sources */,
+				1BEB01E72AD7F8AE002737F1 /* CreateView2.swift in Sources */,
+				1BA32E6F2ADA5A790016D166 /* TokenRequest.swift in Sources */,
+				1BEB01ED2AD80152002737F1 /* ConnectView.swift in Sources */,
+				1BEB01EF2AD801A6002737F1 /* LinkView.swift in Sources */,
+				1BEB01E52AD7ED30002737F1 /* Alchemy.swift in Sources */,
+				1BEB01D12AD7243D002737F1 /* MagiryApp.swift in Sources */,
+				1BEB01E32AD7ED30002737F1 /* Models.swift in Sources */,
+				1BEB01E92AD7F9C7002737F1 /* ForgePreviewView.swift in Sources */,
+				1BEB01E42AD7ED30002737F1 /* CardView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1BEB01D92AD7243F002737F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1BEB01DA2AD7243F002737F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1BEB01DC2AD7243F002737F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Magiry/Preview Content\"";
+				DEVELOPMENT_TEAM = DLYUQU3Z5W;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Learn-Race.Magiry";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1BEB01DD2AD7243F002737F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Magiry/Preview Content\"";
+				DEVELOPMENT_TEAM = DLYUQU3Z5W;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Learn-Race.Magiry";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1BEB01C82AD7243C002737F1 /* Build configuration list for PBXProject "Magiry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BEB01D92AD7243F002737F1 /* Debug */,
+				1BEB01DA2AD7243F002737F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1BEB01DB2AD7243F002737F1 /* Build configuration list for PBXNativeTarget "Magiry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1BEB01DC2AD7243F002737F1 /* Debug */,
+				1BEB01DD2AD7243F002737F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1BEB01C52AD7243C002737F1 /* Project object */;
+}
