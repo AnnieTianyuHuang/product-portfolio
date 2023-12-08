@@ -1,12 +1,10 @@
-# Annie Huang's Product Portfolio README
+# Annie Huang's Product Portfolio
 
 Welcome to my product portfolio! I am Annie Huang, a student at the University of California, Berkeley, with a double degree in Business Administration and Computer Science.
 
 ## Personal Introduction
 
-- **Location**: Berkeley, CA
 - **Education**: Double Degree in Business Administration and Computer Science at University of California, Berkeley
-- **GPA**: 3.9/4.0
 - **Achievements**:
   - Berkeley Skydeck Founder
   - YCombinator China Alumni
