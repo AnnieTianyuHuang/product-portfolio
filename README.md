@@ -1,75 +1,81 @@
-<<<<<<< Updated upstream
-# Pinnect
-Game-map collaboration, all for gammers.
+# Annie Huang's Product Portfolio README
+
+Welcome to my product portfolio! I am Annie Huang, a student at the University of California, Berkeley, with a double degree in Business Administration and Computer Science.
+
+## Personal Introduction
+
+- **Location**: Berkeley, CA
+- **Education**: Double Degree in Business Administration and Computer Science at University of California, Berkeley
+- **GPA**: 3.9/4.0
+- **Achievements**:
+  - Berkeley Skydeck Founder
+  - YCombinator China Alumni
+  - EthDenver Hackathon Track Winner
+  - 1st Place CalHacks Track Winner
+- **Interests**: Excited about product management roles; experienced in backend and frontend development.
+
+## Project Overview
+
+This portfolio showcases three innovative projects: Magiry.ai, Creathon for Solana, and Pinnect. Each project leverages cutting-edge technology to provide unique solutions in their respective domains.
+
+### Pinnect
+
+#### Overview
+Pinnect is a game-map collaboration tool for gamers, integrating Eluvio's content fabric for secure and innovative storytelling.
 ![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
-## Core Features Built with Eluvio
-![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
-**Eluvio Content Fabric - Tokenization**
-- Converts content into digital assets, including both fungible and non-fungible tokens (NFTs). Transforms story cards created on the map into NFTs.
-**Utilize the Eluvio Media Wallet**
-- Creators use the Media Wallet when logging into Pinnect.
-**Story of the Day**
-- feature called "Story of the Day" where users on Pinnect can submit and view a featured story each day. This story gets tokenized using Eluvio and showcased in a special section. Each day, a new story is selected, tokenized, and featured. The integration with Eluvio ensures secure and verifiable content management, while the use of the Media Wallet can authenticate submissions and access.
+#### Key Features
+- **Eluvio Integration**: Tokenizes story cards and manages content securely.
+- **Story of the Day**: Showcases a featured story daily, tokenized and managed through Eluvio.
+- **AI-Powered Recommendations**: Utilizes MindsDB and Vectara for personalized content suggestions.
+- **Game-Map Collaboration**: Offers advanced filtering, sorting, and tagging features for interactive map navigation.
+- **Tag Editing and Relationship Flow**: Enables users to contribute and connect story elements effectively.
 
-![PInnectSynergy](/images/synergy.jpeg)
-## Story of the day!
-Recommend daily story for user which fits their preference the most
-![PInnectSynergy](/images/story-of-the-day.jpeg)
-**The AI framework support for the Pinnect platform is enhanced by** **MindsDB**
-- Personalized Recommendation Engine: By integrating the new AI framework with MindsDB, a more accurate recommendation system is built to suggest stories or games that users may be interested in.
-**Vectara** **Content Recommendation Engine**
-- Application scenario: Use Vectara to provide personalized content recommendations for Pinnect users.
-- Implementation method: Analyze user behavior and preferences, and combine with Vectara to generate relevant article or post recommendations.
+### Magiry.ai
 
-## Game-map Collaboration
-This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
-![Pinnect.003.jpeg](/images/Pinnect.003.jpeg)
-Priority of feature requirements: Understandable but not obvious method
-1. Tag List: Display an evenly arranged list of all primary tags and their associated secondary tags. Clicking on any will dim it and no longer display its corresponding tag on the map. Clicking a primary tag will hide all the markers corresponding to its secondary tags.
-2. Show/Hide All Switch: This switch controls the visibility of all tags.
-3. Search Box: This allows for searching for specific tags or markers.
-4. Progress Radio Button: By selecting different chapters (game progress), you can choose different degrees of war fog coverage to prevent spoilers. For example, when selecting the first chapter, markers in the tag data that belong to the second chapter and later will be hidden.
-5. Heatmap Display Mode Switch: You can select "Heatmap Priority" to display the markers most frequently visited/submitted by current players. This is useful for viewing the progress of the majority of players.
-6. Mini-map and Zoom Buttons: Includes a thumbnail of the map and zoom in/out buttons.
+#### Overview
+Magiry.ai is an on-chain contribution recorder for idea collaboration on the Solana blockchain. It facilitates creative collaboration in an 'Open Studio' environment.
 
-## Tag Editing
-Editing interface for tags.
-![Pinnect.004.jpeg](/images/Pinnect.004.jpeg)
+#### Key Features
+- **On-Chain Evidence**: Records creative collaborations on the blockchain, enhancing accountability and transparency.
+- **Solana Integration**: Utilizes Solana's scalability and AI computing power for efficient operation.
+- **DAO Tooling**: Improves efficiency and trust in decentralized autonomous organizations.
+- **Unique Ecological Position**: Contributes to decentralized collaboration proofing.
+- **Continuous Development**: Focuses on integrating AI and blockchain in user collaboration.
 
-The layout, from top to bottom, is as follows:
-- Image and its submission button. (Optional)
-- Title and its text input box.
-- Description and its text input box. (Optional)
-- Dropdown single selection box for primary tags.
-  This can be tasks, NPCs, items, buildings, regions, or any other types.
-- Dropdown single selection box for secondary tags. (Optional)
-  Only two levels of tags are set.
-- Belonging chapter. (Optional)
-- Submission button.
+### Creathon for Solana
 
-### Function
-1. In the description input box, hyperlinks to other tags can be created using [[]] syntax.
-2. Transaction bundling: every 'n' transactions should be bundled together for on-chain attestation (this number 'n' needs to be set).
-3. AI duplication detection: when a user makes a submission, the content is analyzed to determine if it is a tag that already exists. If it is, a prompt should appear asking if this is a mistake, with two options: 'Yes, submit an updated version' or 'No, submit as a new version'. If 'No' is chosen, the submission should undergo backend review.
+#### Overview
+Creathon is a platform for collaborative narrative projects, leveraging Ethereum's EVM scalability and secure Web3 infrastructure.
 
-## Relationship Flow
-Relationship diagram of the current tag is highlighted. When another tag is clicked, a line between the current tag and the clicked tag is displayed, along with an adjacent edit box.
-![Pinnect.005.jpeg](/images/Pinnect.005.jpeg)
+#### Key Features
+- **ZK Privacy**: Ensures end-to-end privacy with zk-SNARK technology.
+- **Idea Tracking by LLM**: Uses AI to integrate and map diverse ideas for structured collaboration.
+- **Data Chain**: Securely stores crucial data on-chain, fostering a transparent and collaborative environment.
+- **Copyright Market**: Leverages autonomous network features for copyright management and creative freedom.
 
-The layout of the edit box, from top to bottom, is as follows:
-1. Direction and its option box: There are two types, preceding and following, similar to the arrowhead editing box at the end of the line in Keynote.
-2. Relationship and its option box: This can be connectors like "owns", "manages", "belongs to", "requires", etc.
+## Technical Skills
 
-## Connect Wallet with cross-platform support
-Contribute on-chain for fair incentive and collaboration
-![Pinnect.006.jpeg](/images/Pinnect.006.jpeg)
-![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
+- **Programming Languages**: Java, JavaScript, Python, C/C++, Rust, Solidity, Move, R, SQL, Swift
+- **Web Development**: Next.js, HTML
+- **Blockchain Development**: Solidity, Move, Rust
 
-## Developers
-**Annie Huang**
-CS + Business Sophomore @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner.
+## Product Skills
 
-=======
-# Polygon-DevX
->>>>>>> Stashed changes
-# product-portfolio
+- **UI/UX Design**: Figma, Sketch, Xcode
+- **Project Management**: Jira, Agile Methodologies
+- **Testing**: A/B Testing
+- **Office Tools**: Microsoft Suite
+
+---
+
+### Technologies Used
+- **Blockchain**: Solana, Ethereum
+- **AI**: Magiry.AI, MindsDB, Vectara
+- **Privacy**: zk-SNARK
+- **Content Management**: Eluvio Content Fabric, Media Wallet
+
+### Contribution and Collaboration
+I welcome contributions and collaborations from the community. Feel free to reach out or submit pull requests to contribute to these projects.
+
+---
+
