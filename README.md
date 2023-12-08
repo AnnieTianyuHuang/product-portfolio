@@ -32,7 +32,7 @@ Pinnect is a game-map collaboration tool for gamers, integrating Eluvio's conten
 
 #### Overview
 Magiry.ai is an on-chain contribution recorder for idea collaboration on the Solana blockchain. It facilitates creative collaboration in an 'Open Studio' environment.
-
+![demo1](images/cover1.png)
 #### Key Features
 - **On-Chain Evidence**: Records creative collaborations on the blockchain, enhancing accountability and transparency.
 - **Solana Integration**: Utilizes Solana's scalability and AI computing power for efficient operation.
