@@ -45,12 +45,6 @@ meanwhile, Our "Creathon" turns this collaborative process into a playful compet
 ## magipop Data Chain
 The magipop Map Contract lies at the core of Creathon's unique creative-linking system. By seamlessly integrating the capabilities of blockchain, AI, and collective creativity, we initiate our system with a distinctive contract hash. This sets a secure and transparent foundation for all operations. Capitalizing on the efficiency of layer 2, we ensure that all crucial data is securely stored on-chain, thus safeguarding every creator's contributions. Moreover, the contract serves as a bridge, connecting creators with their innovative concepts. With built-in functions like "post" and "detail_of", creators have the flexibility to share their ideas and retrieve them when needed. This design promotes a lively environment where ideas flow naturally and collaborations emerge effortlessly.
 
-## Contact us
-Race Li
-Telegram @RaceLi
-Twitter @melitosnap
-Email callmerace@hotmail.com
-
 ![demoimage](/demo-images/1.png)
 ![demoimage](/demo-images/2.png)
 ![demoimage](/demo-images/3.png)
