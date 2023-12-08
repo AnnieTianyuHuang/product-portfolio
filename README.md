@@ -44,7 +44,7 @@ Magiry.ai is an on-chain contribution recorder for idea collaboration on the Sol
 
 #### Overview
 Creathon is a platform for collaborative narrative projects, leveraging Ethereum's EVM scalability and secure Web3 infrastructure.
-
+![demoimage](/demo-images/1.png)
 #### Key Features
 - **ZK Privacy**: Ensures end-to-end privacy with zk-SNARK technology.
 - **Idea Tracking by LLM**: Uses AI to integrate and map diverse ideas for structured collaboration.
