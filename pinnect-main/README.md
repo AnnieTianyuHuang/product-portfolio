@@ -63,9 +63,3 @@ The layout of the edit box, from top to bottom, is as follows:
 Contribute on-chain for fair incentive and collaboration
 ![Pinnect.006.jpeg](/images/Pinnect.006.jpeg)
 ![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
-
-## Developers
-**Annie Karen**
-(Dropout) CS Freshman @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner.
-### Add Telegram and contribute with us!
-![Pinnect.006.jpeg](/images/annie.jpeg)
