@@ -30,6 +30,3 @@ Once approved by a token-staked manager (staker), it becomes an automated record
 Super easy way for creator onboarding:
 
 ![demo6](images/cover6.png)
-
-
-![demo7](images/cover7.png)
