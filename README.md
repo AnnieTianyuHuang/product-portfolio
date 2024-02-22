@@ -14,12 +14,12 @@ Welcome to my product portfolio! I am Annie Huang, a student at the University o
 
 ## Project Overview
 
-This portfolio showcases three innovative projects: Magiry.ai, Creathon for Solana, and Pinnect. Each project leverages cutting-edge technology to provide unique solutions in their respective domains.
+This portfolio showcases three innovative projects: Magiry.ai and Pinnect. Each project leverages cutting-edge technology to provide unique solutions in their respective domains.
 
 ### Pinnect
 
 #### Overview
-Pinnect is a game-map collaboration tool for gamers, integrating Eluvio's content fabric for secure and innovative storytelling.
+Pinnect is an innovative platform designed to revolutionize how fan-fiction authors share and connect their ideas. By allowing authors to submit their stories, which are then dynamically linked to other complementary ideas, Pinnect fosters a community of like-minded individuals. Its game-like map interface adds an element of fun and discovery, making the creative process more engaging and interactive.
 ![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
 #### Key Features
 - **Eluvio Integration**: Tokenizes story cards and manages content securely.
@@ -31,7 +31,7 @@ Pinnect is a game-map collaboration tool for gamers, integrating Eluvio's conten
 ### Magiry.ai
 
 #### Overview
-Magiry.ai is an on-chain contribution recorder for idea collaboration on the Solana blockchain. It facilitates creative collaboration in an 'Open Studio' environment.
+Magiry.ai addresses the challenge of fairly attributing contributions in collaborative creative work. By utilizing advanced AI algorithms, Magiry.ai evaluates the significance of each contribution beyond basic metrics like word count. This ensures that key contributions are accurately identified and recorded on the blockchain, providing transparent ownership and recognition for all collaborators.
 ![demo1](images/cover1.png)
 #### Key Features
 - **On-Chain Evidence**: Records creative collaborations on the blockchain, enhancing accountability and transparency.
@@ -39,17 +39,6 @@ Magiry.ai is an on-chain contribution recorder for idea collaboration on the Sol
 - **DAO Tooling**: Improves efficiency and trust in decentralized autonomous organizations.
 - **Unique Ecological Position**: Contributes to decentralized collaboration proofing.
 - **Continuous Development**: Focuses on integrating AI and blockchain in user collaboration.
-
-### Creathon for Solana
-
-#### Overview
-Creathon is a platform for collaborative narrative projects, leveraging Ethereum's EVM scalability and secure Web3 infrastructure.
-![demoimage](/demo-images/1.png)
-#### Key Features
-- **ZK Privacy**: Ensures end-to-end privacy with zk-SNARK technology.
-- **Idea Tracking by LLM**: Uses AI to integrate and map diverse ideas for structured collaboration.
-- **Data Chain**: Securely stores crucial data on-chain, fostering a transparent and collaborative environment.
-- **Copyright Market**: Leverages autonomous network features for copyright management and creative freedom.
 
 ## Technical Skills
 
@@ -69,7 +58,6 @@ Creathon is a platform for collaborative narrative projects, leveraging Ethereum
 ### Technologies Used
 - **Blockchain**: Solana, Ethereum
 - **AI**: Magiry.AI, MindsDB, Vectara
-- **Privacy**: zk-SNARK
 - **Content Management**: Eluvio Content Fabric, Media Wallet
 
 ### Contribution and Collaboration
