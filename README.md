@@ -1,4 +1,4 @@
-# Annie Huang's Product Portfolio
+# Annie Huang's Product Portfolio✨
 
 Welcome to my product portfolio! I am Annie Huang, a student at the University of California, Berkeley, with a double degree in Business Administration and Computer Science.
 
@@ -18,7 +18,7 @@ Welcome to my product portfolio! I am Annie Huang, a student at the University o
 
 This portfolio showcases three innovative projects: Skydiver, Pinnect, Magiry.ai. Each project leverages cutting-edge technology to provide unique solutions in their respective domains.
 
-### Skydiver
+### Skydiver🪂
 
 #### Overview
 Thrilled to be selected as a Distinguished Winner in the 2024 Apple Swift Student Challenge, recognized among the top 50 globally. Honored to receive an invitation to the Apple Worldwide Developers Conference (WWDC) 2024.
@@ -37,7 +37,7 @@ Skydiver is an engaging iOS simulator game that recreates the thrill of skydivin
 - **Levels Design: Features multiple levels with increasing difficulty, designed to challenge the player’s reaction time and strategic thinking.
 - **Physics Simulation: Incorporates realistic physics to mimic the nuances of skydiving, including speed, drag, and wind resistance.
 
-### Pinnect
+### Pinnect🖌️
 
 #### Overview
 Pinnect is an innovative platform designed to revolutionize how fan-fiction authors share and connect their ideas. By allowing authors to submit their stories, which are then dynamically linked to other complementary ideas, Pinnect fosters a community of like-minded individuals. Its game-like map interface adds an element of fun and discovery, making the creative process more engaging and interactive.
@@ -49,7 +49,7 @@ Pinnect is an innovative platform designed to revolutionize how fan-fiction auth
 - **Game-Map Collaboration**: Offers advanced filtering, sorting, and tagging features for interactive map navigation.
 - **Tag Editing and Relationship Flow**: Enables users to contribute and connect story elements effectively.
 
-### Magiry.ai
+### Magiry.ai📖
 
 #### Overview
 Magiry.ai addresses the challenge of fairly attributing contributions in collaborative creative work. By utilizing advanced AI algorithms, Magiry.ai evaluates the significance of each contribution beyond basic metrics like word count. This ensures that key contributions are accurately identified and recorded on the blockchain, providing transparent ownership and recognition for all collaborators.
