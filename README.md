@@ -6,6 +6,8 @@ Welcome to my product portfolio! I am Annie Huang, a student at the University o
 
 - **Education**: Double Degree in Business Administration and Computer Science at University of California, Berkeley
 - **Achievements**:
+  - Apple Swift Challenge Distinguished Winner (Global Top 50), invited to Apple Worldwide Developers Conference
+  - Cal Hacks 1st Place Creator Track Winner
   - Berkeley Skydeck Founder
   - YCombinator China Alumni
   - EthDenver Hackathon Track Winner
@@ -14,7 +16,23 @@ Welcome to my product portfolio! I am Annie Huang, a student at the University o
 
 ## Project Overview
 
-This portfolio showcases three innovative projects: Magiry.ai and Pinnect. Each project leverages cutting-edge technology to provide unique solutions in their respective domains.
+This portfolio showcases three innovative projects: Skydiver, Pinnect, Magiry.ai. Each project leverages cutting-edge technology to provide unique solutions in their respective domains.
+
+### Skydiver
+
+#### Overview
+Thrilled to be selected as a Distinguished Winner in the 2024 Apple Swift Student Challenge, recognized among the top 50 globally. Honored to receive an invitation to the Apple Worldwide Developers Conference (WWDC) 2024.
+
+Skydiver is an engaging iOS simulator game that recreates the thrill of skydiving through a highly interactive experience. Developed using Apple's SpriteKit for seamless animations and SwiftUI for a responsive user interface, the game challenges players to navigate through diverse levels with increasing complexity, optimizing speed and trajectory to achieve objectives. Extensive user feedback and A/B testing have refined its design, enhancing both functionality and playability. 
+
+<img width="468" alt="Snipaste_2024-07-16_23-49-37" src="https://github.com/user-attachments/assets/918feee9-c704-4111-bdbf-f8b6d1582839">![16587354c47ed62cacac25d4262e1526](https://github.com/user-attachments/assets/f8722e5c-70d0-4f33-bb82-8447ab9af4bf)
+
+#### Key Features
+- **Engine: Utilizes Apple’s SpriteKit for dynamic, physics-based animations that accurately simulate skydiving movements.
+- **Interface: Built with SwiftUI to ensure a modern, clean user interface that enhances user interaction and visual appeal.
+- **Testing: Extensively tested through A/B testing methodologies to fine-tune the user interface and experience based on direct user feedback.
+- **Levels Design: Features multiple levels with increasing difficulty, designed to challenge the player’s reaction time and strategic thinking.
+- **Physics Simulation: Incorporates realistic physics to mimic the nuances of skydiving, including speed, drag, and wind resistance.
 
 ### Pinnect
 
