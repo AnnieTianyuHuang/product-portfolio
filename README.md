@@ -26,8 +26,8 @@ Thrilled to be selected as a Distinguished Winner in the 2024 Apple Swift Studen
 Skydiver is an engaging iOS simulator game that recreates the thrill of skydiving through a highly interactive experience. Developed using Apple's SpriteKit for seamless animations and SwiftUI for a responsive user interface, the game challenges players to navigate through diverse levels with increasing complexity, optimizing speed and trajectory to achieve objectives. Extensive user feedback and A/B testing have refined its design, enhancing both functionality and playability. 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/918feee9-c704-4111-bdbf-f8b6d1582839" alt="Snipaste_2024-07-16_23-49-37" style="height: 300px; width: auto;"/>
-  <img src="https://github.com/user-attachments/assets/f8722e5c-70d0-4f33-bb82-8447ab9af4bf" alt="Image" style="height: 300px; width: auto;"/>
+  <img src="https://github.com/user-attachments/assets/918feee9-c704-4111-bdbf-f8b6d1582839" alt="Snipaste_2024-07-16_23-49-37" style="height: 600px; width: auto;"/>
+  <img src="https://github.com/user-attachments/assets/f8722e5c-70d0-4f33-bb82-8447ab9af4bf" alt="Image" style="height: 600px; width: auto;"/>
 </p>
 
 #### Key Features
